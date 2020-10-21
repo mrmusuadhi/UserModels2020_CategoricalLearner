@@ -11,5 +11,3 @@ In this release you can find the files required to participate in an experiment 
 3. Run the experiment from the Run menu or by pressing Ctrl+R
 
 4. Provide a numerical value in the 'Please enter the subject number' dialog
-
-5.
